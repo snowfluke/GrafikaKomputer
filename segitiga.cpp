@@ -1,6 +1,6 @@
 // Memasukan library yang diperlukan yaitu iostream, stdio dan glut
 #include <iostream>
-#include </usr/include/GL/glut.h>
+#include </usr/include/GL/glut.h> // Untuk Ubuntu
 #include <stdio.h>
 
 // Mendefinisikan fungsi kosong bernama dot
